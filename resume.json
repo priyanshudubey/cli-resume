@@ -1,0 +1,49 @@
+{
+    "Education": [
+        "B.Tech in CSE from Sagar Institute of Science and Technology"
+    ],
+
+    "About Me": [
+        "Passionate and Self-motivated Full-Stack Developer with experience in modern technologies. Able to design, develop and implement web applications."
+    ],
+
+    "Past Experience": [
+        "TECHNOLOGY DEVELOPMENT INTERN | Triluxo",
+        "SOFTWARE DEVELOPER INTERN | GallantFusionTech ",
+        "ASSOCIATE NLP ENGINEER | Emphasis Corp"
+    ],
+    "Skills": [
+        "JavaScript",
+        "MySQL",
+        "Django",
+        "NodeJS",
+        "ReactJS",
+        "Express",
+        "C",
+        "C++",
+        "Python",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "PHP",
+        "Data Structure"
+    ],
+
+    "Projects": [
+        "NPM Package for concatenation",
+        "React portfolio website",
+        "Learning Management system",
+        "Command Line Resume npm package",
+        "Chat bot for IT help desk",
+        "Chat bot for hotels (room service, resaturant)",
+        "Eye blink detection",
+        "CPU and Memory Usage",
+        "Meme Generator",
+        "Black Day (Operating System)"
+    ],
+
+    
+
+    "Contact": ["priyanshu0dubey@gmail.com"],
+    "Website": ["https://www.priyanshudubey.me"]
+}
