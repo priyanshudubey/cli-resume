@@ -8,7 +8,7 @@ $ npm i -g priyanshu-resume
 
 # 📜 Run 
 ```
-node index
+priyanshu-resume
 ```
 
 # 📜 How it looks 
