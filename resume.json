@@ -1,31 +1,27 @@
 {
     "Education": [
-        "B.Tech in CSE from Sagar Institute of Science and Technology"
+        "Completed my B.Tech in CSE from Sagar Institute of Science and Technology in the year 2021"
     ],
 
     "About Me": [
         "Passionate and Self-motivated Full-Stack Developer with experience in modern technologies. Able to design, develop and implement web applications."
     ],
 
-    "Past Experience": [
-        "TECHNOLOGY DEVELOPMENT INTERN | Triluxo",
-        "SOFTWARE DEVELOPER INTERN | GallantFusionTech ",
-        "ASSOCIATE NLP ENGINEER | Emphasis Corp"
+    "Experience": [
+        "SYSTEMS ENGINEER | TCS | JULY 2021 - PRESENT",
+        "TECHNOLOGY DEVELOPMENT INTERN | Triluxo | OCT 2020 - DEC 2020",
+        "SOFTWARE DEVELOPER INTERN | GallantFusionTech | JULY 2020 - SEPT 2020"
     ],
     "Skills": [
         "JavaScript",
+        "AWS",
         "MySQL",
         "Django",
         "NodeJS",
-        "ReactJS",
         "Express",
         "C",
         "C++",
         "Python",
-        "HTML",
-        "CSS",
-        "Bootstrap",
-        "PHP",
         "Data Structure"
     ],
 
@@ -45,5 +41,5 @@
     
 
     "Contact": ["priyanshu0dubey@gmail.com"],
-    "Website": ["https://www.priyanshudubey.me"]
+    "Website": ["https://www.priyanshudubey.tech"]
 }
